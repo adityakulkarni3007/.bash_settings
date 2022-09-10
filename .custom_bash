@@ -7,3 +7,5 @@ alias cb="clear; source ~/.bashrc"
 alias c="clear"
 alias ip="curl ipinfo.io/ip;echo -e ''"
 alias basa="vim ~/.bash_settings/.custom_bash"
+alias sconda="source ~/miniconda3/etc/profile.d/conda.sh; export PATH="~/conda/bin:$PATH""
+
